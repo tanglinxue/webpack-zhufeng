@@ -1,0 +1,12 @@
+@import "./a.css";
+body{
+  background:green
+}
+div{
+  transform:rotate(45deg);
+  border-radius:rotate(45deg);
+  background:url('./logo.png');
+  width:100px;
+  height:100px;
+  background-size:100% 100%
+}

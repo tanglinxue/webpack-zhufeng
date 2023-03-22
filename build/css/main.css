@@ -1,0 +1,17 @@
+body{
+  color:yellow
+}
+
+body{
+  background:green
+}
+div{
+  -webkit-transform:rotate(45deg);
+          transform:rotate(45deg);
+  border-radius:rotate(45deg);
+  background:url(https://www.zhufengpeixun.cn/37bdf98e738a66774900dc3c0fc613f9.png);
+  width:100px;
+  height:100px;
+  background-size:100% 100%
+}
+
